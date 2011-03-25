@@ -13,6 +13,7 @@ namespace GitTestConsoleApp
 
             i++;
             // I removed a line on a branch.
+            Console.Write("I'll never delete a line.");
 
             Console.WriteLine("Hit Enter to Continue...");
             Console.ReadLine();
