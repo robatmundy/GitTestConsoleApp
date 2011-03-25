@@ -13,6 +13,7 @@ namespace GitTestConsoleApp
 
             i++;
             Console.Write("I like the number {0}", i);
+            Console.Write("I'll never delete a line.");
 
             Console.WriteLine("Hit Enter to Continue...");
             Console.ReadLine();
