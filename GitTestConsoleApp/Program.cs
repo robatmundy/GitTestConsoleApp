@@ -12,7 +12,7 @@ namespace GitTestConsoleApp
             int     i = 0;  // Here is my frist line of code.
 
             i++;
-            Console.Write("I like the number {0}", i);
+            
 
             Console.WriteLine("Hit Enter to Continue...");
             Console.ReadLine();
