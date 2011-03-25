@@ -11,6 +11,8 @@ namespace GitTestConsoleApp
         {
             int i = 0;  // Here is my frist line of code.
 
+            i++;
+
             Console.WriteLine("Hit Enter to Continue...");
             Console.ReadLine();
         }
