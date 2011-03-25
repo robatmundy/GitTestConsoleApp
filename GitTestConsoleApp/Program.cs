@@ -12,7 +12,7 @@ namespace GitTestConsoleApp
             int     i = 0;  // Here is my frist line of code.
 
             i++;
-            Console.Write("I like the number {0}", i);
+            // I removed a line on a branch.
             Console.Write("I'll never delete a line.");
 
             Console.WriteLine("Hit Enter to Continue...");
